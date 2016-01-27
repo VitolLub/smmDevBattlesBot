@@ -14,4 +14,4 @@ What share:
 -New job<br />
 -Also some banners in Twitter<br />
 
-NOT FINISHED
+IN PROCESS
